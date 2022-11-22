@@ -75,7 +75,7 @@ The driven element connector requires:
 - POM tube (to keep away two side of elements)
 - Ring terminal (for feeder connection)
 
-The CAD with all the files are located [Here]().
+The CAD with all the files are located [Here](./tree/main/CAD).
 
 ### General Bill of Materials (BOM)
 
