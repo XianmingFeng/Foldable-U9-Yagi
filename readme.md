@@ -5,7 +5,7 @@ This is a portable antenna design featuring uni-body, small storage form-factor 
 
 This project includes a fold-able boom using hinge, a connector for driven element and a set of element supports featuring fast deployment. They are not limited to this particular antenna, but can be applied to any antenna design with the same boom and element diameters.
 
-The elements' dimensions are based on [DK7ZB's Yagis ultralight 9-EL. 70cm 50$\Omega$](https://www.qsl.net/dk7zb/start1.htm).
+The elements' dimensions are based on [DK7ZB's Yagis ultralight 9-EL. 70cm 50Ω](https://www.qsl.net/dk7zb/start1.htm).
 
 [Here](https://www.bilibili.com/video/BV12W4y1s754/?spm_id_from=333.999.0.0) is a video demo for this antenna.
 
@@ -106,7 +106,7 @@ Support BOM:
 |:-------------:|:---------------------:|:-----:|
 |Support Base	|3D printed				|1		|
 |SH M3 Bolt		|M3×20×6 partial thread	|1		|
-|Teflon Tube	|$\Phi$4×3×6			|1		|
+|Teflon Tube	|Φ4×3×6			|1		|
 |Spring			|4×0.4×5				|1		|
 |Nyloc Nut		|M3						|1		|
 
