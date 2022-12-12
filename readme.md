@@ -106,14 +106,19 @@ Support BOM:
 |:-------------:|:---------------------:|:-----:|
 |Support Base	|3D printed				|1		|
 |SH M3 Bolt		|M3×20×6 partial thread	|1		|
-|Teflon Tube	|Φ4×3×6			|1		|
+|Teflon Tube	|Φ4×3×6					|1		|
 |Spring			|4×0.4×5				|1		|
 |Nyloc Nut		|M3						|1		|
 
 Connector BOM:
 
-|Component		|Standard				|Qty	|
-|:-------------:|:---------------------:|:-----:|
+|Component			|Standard				|Qty	|
+|:-----------------:|:---------------------:|:-----:|
+|POM Tube			|Φ6×4×10				|1		|
+|Fiberglass Bar		|Φ4×50					|1		|
+|BH M2.5 Bolt		|M2.5×4					|2		|
+|Ring Terminal		|**TBD**				|2		|
+|Washer (Optional)	|M3						|4		|
 
 
 
